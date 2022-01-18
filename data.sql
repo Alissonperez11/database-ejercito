@@ -36,7 +36,7 @@ INSERT INTO soldado values(2, 1,  1,    '1313544711', 'Alberto', 'Pico',     '19
 INSERT INTO soldado values(3, 7,  1,    '1316205515', 'Daniel',  'Loor',     '1992-11-05', '2015-04-02', TRUE,  TRUE);
 INSERT INTO soldado values(4, 1,  NULL, '1312866567', 'David',   'Bravo',    '2001-04-24', '2020-10-01', TRUE,  FALSE);
 INSERT INTO soldado values(5, 7,  1,    '1315431111', 'Juan',    'Preciado', '1962-04-24', '1970-03-01', FALSE, TRUE);
-INSERT INTO soldado values(6, 1,  2,    '1314041208', 'Steven',  'Zamora',   '1998-10-01', '2020-05-01', FALSE, TRUE);
+INSERT INTO soldado values(6, 8,  2,    '1314041208', 'Steven',  'Zamora',   '1998-10-01', '2020-05-01', FALSE, TRUE);
 INSERT INTO soldado values(7, 3,  2,    '1313501510', 'Walter',  'Vera',     '1992-11-01', '2020-02-01', FALSE, TRUE);
 INSERT INTO soldado values(8, 7,  2,    '1112202512', 'Jhon',    'Wilson',   '1960-11-01', '1970-03-06', FALSE, TRUE);
 
